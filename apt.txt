@@ -1,0 +1,6 @@
+libegl1
+libgl1
+libglx0
+libosmesa6
+libx11-6
+libxcursor1
